@@ -1,5 +1,5 @@
 # FuckThisQueue... Bot.
-Automated discovery queue bot for the truly cynical but lazy user!
+Automated discovery queue bot for the truly cynical but "I can't be bothered" user!
 
 	This javascript file is have an extension dependency of either GreaseMonkey (Firefox) or TamperMonkey (Chrome) to work.
 		This is a roughly modified white-list script modified to just say "fuck it" to all games and click Not Interested.
